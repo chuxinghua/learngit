@@ -1,2 +1,2 @@
 git is a version contral system.
-git is beatuful.
+git is beatuful best.
